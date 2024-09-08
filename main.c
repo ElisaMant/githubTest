@@ -57,6 +57,8 @@ int main()
 
 
 
+
+
 // Function e sottoprogrammi 
 void scambio(int *x, int *y){
     
